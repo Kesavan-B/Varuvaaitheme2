@@ -1,0 +1,34 @@
+
+.fl-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+a.nav-link {
+    margin-left: 35px;
+    font-size: 18px;
+    color: #828264;
+    letter-spacing: 1px;
+}
+a.nav-link:hover{
+    color: #ff4e00;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.nav-name {
+    font-size: 50px;
+    font-family: poppins;
+    font-weight: 800;
+    margin: 0;
+    font-family: sans-serif;
+    color: #454645;
+}
+.helps{
+    color:'#9c9b9b';
+    letter-spacing: 2px;
+    font-size: 14px;
+}

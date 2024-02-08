@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+}
+.nav-container{
+  align-items: "baseline";
+   width: "97%";
+    text-align :"center" 
+    
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    justify-content: center;
+}
+.helps {
+  text-align: center;
+}
+.width-crd {
+  width: 100%;
+}
+.stocks {
+  background-color: #F60B0E;
+  color: #fff;
+  position: absolute;
+  transform: rotate(270deg);
+  font-size: 14px;
+  padding: 1px 20px;
+  top: 21px;
+  left: 305px;
+}
+img.card-img-top {
+
+  margin: 0px auto;
+}
+.dble-img {
+
+  justify-content: center;
+
+}
+.testi-cont p {
+  padding: 0px 0px;
+ 
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .dble-img {
+
+    justify-content: center;
+  
+  }
+  .testi-cont p {
+    padding: 0px 0px;
+  
+}
+  
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .dble-img {
+
+    justify-content: center;
+  
+  }
+  .testi-cont p {
+    padding: 0px 0px;
+  
+}
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
